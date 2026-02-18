@@ -1,8 +1,8 @@
 ## 🚀 Project Highlight – Innovior  
 ### Student Registration & Payment Tracking System
 
-This repository contains a **Student Registration and Payment Tracking System** developed at **Innovior**, built using **Laravel, MySQL, and Tailwind CSS**.  
-The system is designed to simplify **student management, payments, attendance tracking, and reporting** for educational institutions.
+This repository contains a **Student Registration and Payment Tracking System** developed at **Innovior**, built using **Laravel, MySQL and Tailwind CSS**.  
+The system is designed to simplify **student management, payments, attendance tracking and reporting** for educational institutions.
 
 ---
 
